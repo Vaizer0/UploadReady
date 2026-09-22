@@ -1,0 +1,6 @@
+{
+  "name": "UploadReady",
+  "description": "Prepare photos, signatures, and documents to exact dimensions, file sizes, and format requirements for online applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
